@@ -19,28 +19,29 @@ git config --list
 ```
 ![image](https://github.com/leegowoon/git_connect/assets/145514701/b1ffe2e5-966d-4808-b4df-45a564507d87)
 
-⬆️ 의 내용은 컴퓨터에 한번만 설치하면 된다.
+위의 내용은 컴퓨터에 한번만 설치하면 된다.
 
 -----
 -----
 
-# GitHub에 코드 업로드하기 💛
+# 💛 GitHub에 코드 업로드하기
 
 1. 초기화
-  
+
   ```
   git init
   ```
 
-# .git이라는 폴더가 생성된다
+✔ .git이라는 폴더가 생성된다
 
-2. 파일 올리기 (모든것을올리겠다)
+2. 파일 올리기 (모든것을올리겠다는 뜻)
 
    ```
    git add .
    ```
 
 3. history 만들기
+
    ```
    git commit -m "내가 적고싶은 메세지"
    ```
@@ -48,7 +49,7 @@ git config --list
    -m은 메세지의 준말
 
 4. GitHub repository랑 내 로컬 프로젝트랑 연결 (GitHub에 프로젝트를 올릴 repository를 먼저 만들어야한다)
-    # 아래 주소는 GitHub에서 만든 repository에서 복사해서 가져와야한다(repository를 만들 때 readme 선택하지 말기!)
+    ☑ 아래 주소는 GitHub에서 만든 repository에서 복사해서 가져와야한다(repository를 만들 때 readme 선택하지 말기!)
 
   ```
   git remote add origin https://github.com/leegowoon/webstandard.git
@@ -64,7 +65,7 @@ git config --list
    git push origin master
    ```
 
-   # 여기까지 하면 GitHub의 repository에 자료가 올라가 있다.
+☑ 여기까지 하면 GitHub의 repository에 자료가 올라가 있다.
 
 ---
 # 💕 요약
