@@ -67,7 +67,8 @@ git config --list
    # 여기까지 하면 GitHub의 repository에 자료가 올라가 있다.
 
 --- 
-netlify
+# netlify💚
 1)new > import > deploying github >> deploying > 2로 바뀔 때까지 기다린다.
-   
+
+2) Site configuration > change site name
    
