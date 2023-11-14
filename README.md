@@ -71,4 +71,6 @@ git config --list
 1)new > import > deploying github >> deploying > 2로 바뀔 때까지 기다린다.
 
 2) Site configuration > change site name
+
+3) index.html의 주소 ex) "https://figmasite22.netlify.app/___" 바꿔서 연결하기
    
