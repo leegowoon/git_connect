@@ -34,7 +34,7 @@ git config --list
 
 # .git이라는 폴더가 생성된다
 
-2. 파일 올리기
+2. 파일 올리기 (모든것을올리겠다)
 
    ```
    git add .
@@ -65,4 +65,9 @@ git config --list
    ```
 
    # 여기까지 하면 GitHub의 repository에 자료가 올라가 있다.
+
+--- 
+netlify
+1)new > import > deploying github >> deploying > 2로 바뀔 때까지 기다린다.
+   
    
