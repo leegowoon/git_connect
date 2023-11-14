@@ -66,9 +66,13 @@ git config --list
 
    # 여기까지 하면 GitHub의 repository에 자료가 올라가 있다.
 
+---
+# 💕 요약
+# 1) GitHub에 new repository 만들기 (remade체크X) 
+# 2) git init >> git add . >> git commit -m "내가 적고싶은 메세지" >> git remote add origin https://github.com/leegowoon/webstandard.git >> git push origin master
 --- 
-# netlify💚
-1)new > import > deploying github >> deploying > 2로 바뀔 때까지 기다린다.
+# 💚 netlify
+1) new > import > deploying github >> deploying > 2로 바뀔 때까지 기다린다.
 
 2) Site configuration > change site name
 
